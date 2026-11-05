@@ -1,0 +1,51 @@
+vendor_offer_id,vendor_name,port,fuel_type,price_per_mt,available_quantity_mt,delivery_time_hours,status
+2001,Shell Marine,Shanghai,IFO 380,765.04,1442.78,25,Available
+2002,Chevron,Jakarta,MGO,949.03,1270.12,23,Available
+2003,BP Marine,Colombo,MDO,835.94,1714.77,48,Available
+2004,TotalEnergies,Rotterdam,LNG,1007.15,4292.83,11,Available
+2005,PetroChina,Fujairah,IFO 380,1112.79,4122.71,33,Available
+2006,Emarat,Dubai,MGO,530.97,4609.11,44,Available
+2007,OceanFuel,Hong Kong,MDO,643.72,2746.54,37,Available
+2008,Maritime Energy,Chennai,LNG,683.96,1609.82,43,Available
+2009,Harbor Fuels,Mumbai,IFO 380,1055.2,2427.95,45,Limited
+2010,BlueWave Bunkers,Singapore,MGO,758.74,4987.97,16,Limited
+2011,Shell Marine,Shanghai,MDO,550.0,712.02,15,Available
+2012,Chevron,Jakarta,LNG,963.13,4064.36,35,Available
+2013,BP Marine,Colombo,IFO 380,776.27,3181.5,37,Available
+2014,TotalEnergies,Rotterdam,MGO,1227.73,4373.51,8,Available
+2015,PetroChina,Fujairah,MDO,1004.92,2916.37,25,Available
+2016,Emarat,Dubai,LNG,565.9,2456.44,37,Available
+2017,OceanFuel,Hong Kong,IFO 380,1214.44,4441.34,24,Available
+2018,Maritime Energy,Chennai,MGO,870.91,978.85,48,Available
+2019,Harbor Fuels,Mumbai,MDO,1128.09,2784.48,20,Available
+2020,BlueWave Bunkers,Singapore,LNG,767.91,1226.97,41,Available
+2021,Shell Marine,Shanghai,IFO 380,941.19,2698.73,15,Available
+2022,Chevron,Jakarta,MGO,1156.62,4242.49,27,Available
+2023,BP Marine,Colombo,MDO,524.6,4451.04,13,Available
+2024,TotalEnergies,Rotterdam,LNG,1043.57,4172.1,42,Available
+2025,PetroChina,Fujairah,IFO 380,578.86,2638.77,43,Available
+2026,Emarat,Dubai,MGO,684.09,4425.95,35,Available
+2027,OceanFuel,Hong Kong,MDO,1195.26,3898.69,20,Available
+2028,Maritime Energy,Chennai,LNG,787.22,3522.59,31,Limited
+2029,Harbor Fuels,Mumbai,IFO 380,1172.7,2531.69,23,Available
+2030,BlueWave Bunkers,Singapore,MGO,529.3,594.65,43,Available
+2031,Shell Marine,Shanghai,MDO,933.1,532.36,48,Available
+2032,Chevron,Jakarta,LNG,656.29,4574.39,29,Available
+2033,BP Marine,Colombo,IFO 380,875.9,1753.15,39,Available
+2034,TotalEnergies,Rotterdam,MGO,895.21,3755.09,44,Limited
+2035,PetroChina,Fujairah,MDO,667.11,2628.38,34,Available
+2036,Emarat,Dubai,LNG,552.63,3465.42,30,Limited
+2037,OceanFuel,Hong Kong,IFO 380,796.55,4387.27,11,Available
+2038,Maritime Energy,Chennai,MGO,526.67,3776.96,14,Available
+2039,Harbor Fuels,Mumbai,MDO,627.52,2913.29,16,Limited
+2040,BlueWave Bunkers,Singapore,LNG,621.29,2581.83,12,Limited
+2041,Shell Marine,Shanghai,IFO 380,1102.18,4351.85,14,Available
+2042,Chevron,Jakarta,MGO,982.15,2932.65,8,Available
+2043,BP Marine,Colombo,MDO,1193.3,4319.13,18,Limited
+2044,TotalEnergies,Rotterdam,LNG,853.94,1461.86,33,Available
+2045,PetroChina,Fujairah,IFO 380,606.77,509.7,32,Available
+2046,Emarat,Dubai,MGO,1193.42,4033.08,26,Limited
+2047,OceanFuel,Hong Kong,MDO,1016.38,3787.27,43,Limited
+2048,Maritime Energy,Chennai,LNG,599.19,1835.19,11,Available
+2049,Harbor Fuels,Mumbai,IFO 380,1055.94,757.24,45,Limited
+2050,BlueWave Bunkers,Singapore,MGO,867.19,4337.24,18,Available

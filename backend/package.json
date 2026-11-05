@@ -1,0 +1,24 @@
+{
+  "name": "bunkersmart-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "inspect-db": "node scripts/inspect-schema.js",
+    "test-db": "node scripts/test-connection.js",
+    "setup:sql-compat": "node scripts/setup-sql-compat.js",
+    "import:sample-data": "node scripts/import-sample-data.js",
+    "seed:demo-users": "node scripts/seed-demo-users.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mssql": "^11.0.1",
+    "msnodesqlv8": "^4.5.0"
+  }
+}

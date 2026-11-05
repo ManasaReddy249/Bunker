@@ -1,0 +1,51 @@
+ship_id,ship_name,current_port,destination,total_fuel_capacity_mt,ship_status
+1001,MV Ocean Star 01,Singapore,Singapore,6336.56,At Sea
+1002,MV Ocean Horizon 02,Colombo,Colombo,2650.06,At Sea
+1003,MV Ocean Voyager 03,Dubai,Rotterdam,4150.18,At Sea
+1004,MV Ocean Trader 04,Mumbai,Mundra,3839.26,At Port
+1005,MV Ocean Wave 05,Jakarta,Fujairah,6918.83,At Sea
+1006,MV Ocean Star 06,Fujairah,Mumbai,6560.2,At Sea
+1007,MV Ocean Horizon 07,Chennai,Chennai,7853.08,At Sea
+1008,MV Ocean Voyager 08,Shanghai,Shanghai,3021.63,At Port
+1009,MV Ocean Trader 09,Rotterdam,Dubai,5031.53,At Sea
+1010,MV Ocean Wave 10,Hong Kong,Port Klang,2678.78,At Sea
+1011,MV Blue Star 11,Singapore,Singapore,3811.83,At Sea
+1012,MV Blue Horizon 12,Colombo,Colombo,5532.13,At Port
+1013,MV Blue Voyager 13,Dubai,Rotterdam,2659.22,At Sea
+1014,MV Blue Trader 14,Mumbai,Mundra,3693.03,At Sea
+1015,MV Blue Wave 15,Jakarta,Fujairah,6399.31,At Sea
+1016,MV Blue Star 16,Fujairah,Mumbai,5769.65,At Port
+1017,MV Blue Horizon 17,Chennai,Chennai,3822.64,At Sea
+1018,MV Blue Voyager 18,Shanghai,Shanghai,6035.59,At Sea
+1019,MV Blue Trader 19,Rotterdam,Dubai,7356.58,At Sea
+1020,MV Blue Wave 20,Hong Kong,Port Klang,2538.99,At Port
+1021,MV Sea Star 21,Singapore,Singapore,7334.92,At Sea
+1022,MV Sea Horizon 22,Colombo,Colombo,6688.84,At Sea
+1023,MV Sea Voyager 23,Dubai,Rotterdam,4541.5,At Sea
+1024,MV Sea Trader 24,Mumbai,Mundra,3432.88,At Port
+1025,MV Sea Wave 25,Jakarta,Fujairah,8243.28,At Sea
+1026,MV Sea Star 26,Fujairah,Mumbai,4519.57,At Sea
+1027,MV Sea Horizon 27,Chennai,Chennai,3056.48,At Sea
+1028,MV Sea Voyager 28,Shanghai,Shanghai,3080.3,At Port
+1029,MV Sea Trader 29,Rotterdam,Dubai,7584.97,At Sea
+1030,MV Sea Wave 30,Hong Kong,Port Klang,6122.36,At Sea
+1031,MV Global Star 31,Singapore,Singapore,7342.77,At Sea
+1032,MV Global Horizon 32,Colombo,Colombo,6878.39,At Port
+1033,MV Global Voyager 33,Dubai,Rotterdam,5717.37,At Sea
+1034,MV Global Trader 34,Mumbai,Mundra,8338.69,At Sea
+1035,MV Global Wave 35,Jakarta,Fujairah,4771.21,At Sea
+1036,MV Global Star 36,Fujairah,Mumbai,5812.24,At Port
+1037,MV Global Horizon 37,Chennai,Chennai,7476.43,At Sea
+1038,MV Global Voyager 38,Shanghai,Shanghai,6211.12,At Sea
+1039,MV Global Trader 39,Rotterdam,Dubai,7670.24,At Sea
+1040,MV Global Wave 40,Hong Kong,Port Klang,5964.11,At Port
+1041,MV Pacific Star 41,Singapore,Singapore,6727.43,At Sea
+1042,MV Pacific Horizon 42,Colombo,Colombo,2774.95,At Sea
+1043,MV Pacific Voyager 43,Dubai,Rotterdam,3867.39,At Sea
+1044,MV Pacific Trader 44,Mumbai,Mundra,4236.33,At Port
+1045,MV Pacific Wave 45,Jakarta,Fujairah,2978.75,At Sea
+1046,MV Pacific Star 46,Fujairah,Mumbai,3896.75,At Sea
+1047,MV Pacific Horizon 47,Chennai,Chennai,3106.01,At Sea
+1048,MV Pacific Voyager 48,Shanghai,Shanghai,4167.84,At Port
+1049,MV Pacific Trader 49,Rotterdam,Dubai,6314.11,At Sea
+1050,MV Pacific Wave 50,Hong Kong,Port Klang,4688.99,At Sea

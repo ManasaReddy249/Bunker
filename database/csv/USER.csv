@@ -1,0 +1,51 @@
+user_id,username,email,password_hash,role,is_active
+1,administrator01,user01@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_01,Administrator,True
+2,manager02,user02@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_02,Manager,True
+3,fuel03,user03@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_03,Fuel Planning Executive,True
+4,inventory04,user04@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_04,Inventory Executive,True
+5,operations05,user05@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_05,Operations Executive,True
+6,administrator06,user06@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_06,Administrator,True
+7,manager07,user07@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_07,Manager,True
+8,fuel08,user08@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_08,Fuel Planning Executive,True
+9,inventory09,user09@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_09,Inventory Executive,True
+10,operations10,user10@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_10,Operations Executive,True
+11,administrator11,user11@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_11,Administrator,True
+12,manager12,user12@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_12,Manager,True
+13,fuel13,user13@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_13,Fuel Planning Executive,True
+14,inventory14,user14@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_14,Inventory Executive,True
+15,operations15,user15@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_15,Operations Executive,True
+16,administrator16,user16@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_16,Administrator,True
+17,manager17,user17@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_17,Manager,True
+18,fuel18,user18@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_18,Fuel Planning Executive,True
+19,inventory19,user19@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_19,Inventory Executive,True
+20,operations20,user20@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_20,Operations Executive,True
+21,administrator21,user21@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_21,Administrator,True
+22,manager22,user22@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_22,Manager,True
+23,fuel23,user23@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_23,Fuel Planning Executive,True
+24,inventory24,user24@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_24,Inventory Executive,True
+25,operations25,user25@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_25,Operations Executive,True
+26,administrator26,user26@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_26,Administrator,True
+27,manager27,user27@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_27,Manager,True
+28,fuel28,user28@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_28,Fuel Planning Executive,True
+29,inventory29,user29@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_29,Inventory Executive,True
+30,operations30,user30@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_30,Operations Executive,True
+31,administrator31,user31@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_31,Administrator,True
+32,manager32,user32@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_32,Manager,True
+33,fuel33,user33@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_33,Fuel Planning Executive,True
+34,inventory34,user34@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_34,Inventory Executive,True
+35,operations35,user35@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_35,Operations Executive,True
+36,administrator36,user36@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_36,Administrator,True
+37,manager37,user37@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_37,Manager,True
+38,fuel38,user38@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_38,Fuel Planning Executive,True
+39,inventory39,user39@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_39,Inventory Executive,True
+40,operations40,user40@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_40,Operations Executive,True
+41,administrator41,user41@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_41,Administrator,True
+42,manager42,user42@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_42,Manager,True
+43,fuel43,user43@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_43,Fuel Planning Executive,True
+44,inventory44,user44@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_44,Inventory Executive,True
+45,operations45,user45@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_45,Operations Executive,True
+46,administrator46,user46@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_46,Administrator,True
+47,manager47,user47@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_47,Manager,True
+48,fuel48,user48@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_48,Fuel Planning Executive,True
+49,inventory49,user49@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_49,Inventory Executive,True
+50,operations50,user50@bunkersmart.demo,DEMO_HASH_NOT_FOR_LOGIN_50,Operations Executive,True

@@ -1,0 +1,101 @@
+request_id,exec_id,ship_id,vendor_offer_id,quantity_mt,expected_price_per_mt,request_date,expected_delivery_date,request_status,remarks
+5001,3,1001,2001,676.47,765.04,2026-08-01 09:00:00,2026-08-02,Approved,Demo fuel requirement for MV Ocean Star 01
+5002,8,1002,2004,610.81,1007.15,2026-08-02 09:00:00,2026-08-03,Approved,Demo fuel requirement for MV Ocean Horizon 02
+5003,13,1003,2007,457.02,643.72,2026-08-03 09:00:00,2026-08-09,Approved,Demo fuel requirement for MV Ocean Voyager 03
+5004,18,1004,2010,617.09,758.74,2026-08-04 09:00:00,2026-08-08,Approved,Demo fuel requirement for MV Ocean Trader 04
+5005,23,1005,2013,171.93,776.27,2026-08-05 09:00:00,2026-08-10,Approved,Demo fuel requirement for MV Ocean Wave 05
+5006,28,1006,2016,247.73,565.9,2026-08-06 09:00:00,2026-08-11,Approved,Demo fuel requirement for MV Ocean Star 06
+5007,33,1007,2019,123.84,1128.09,2026-08-07 09:00:00,2026-08-08,Approved,Demo fuel requirement for MV Ocean Horizon 07
+5008,38,1008,2022,351.53,1156.62,2026-08-08 09:00:00,2026-08-13,Approved,Demo fuel requirement for MV Ocean Voyager 08
+5009,43,1009,2025,439.14,578.86,2026-08-09 09:00:00,2026-08-12,Approved,Demo fuel requirement for MV Ocean Trader 09
+5010,48,1010,2028,660.82,787.22,2026-08-10 09:00:00,2026-08-12,Approved,Demo fuel requirement for MV Ocean Wave 10
+5011,3,1011,2031,501.84,933.1,2026-08-11 09:00:00,2026-08-14,Approved,Demo fuel requirement for MV Blue Star 11
+5012,8,1012,2034,243.21,895.21,2026-08-12 09:00:00,2026-08-16,Approved,Demo fuel requirement for MV Blue Horizon 12
+5013,13,1013,2037,178.53,796.55,2026-08-13 09:00:00,2026-08-19,Approved,Demo fuel requirement for MV Blue Voyager 13
+5014,18,1014,2040,280.0,621.29,2026-08-14 09:00:00,2026-08-17,Approved,Demo fuel requirement for MV Blue Trader 14
+5015,23,1015,2043,657.41,1193.3,2026-08-15 09:00:00,2026-08-16,Approved,Demo fuel requirement for MV Blue Wave 15
+5016,28,1016,2046,105.59,1193.42,2026-08-16 09:00:00,2026-08-21,Approved,Demo fuel requirement for MV Blue Star 16
+5017,33,1017,2049,699.07,1055.94,2026-08-17 09:00:00,2026-08-18,Approved,Demo fuel requirement for MV Blue Horizon 17
+5018,38,1018,2002,143.96,949.03,2026-08-18 09:00:00,2026-08-20,Approved,Demo fuel requirement for MV Blue Voyager 18
+5019,43,1019,2005,403.53,1112.79,2026-08-19 09:00:00,2026-08-21,Approved,Demo fuel requirement for MV Blue Trader 19
+5020,48,1020,2008,659.96,683.96,2026-08-20 09:00:00,2026-08-21,Approved,Demo fuel requirement for MV Blue Wave 20
+5021,3,1021,2011,627.56,550.0,2026-08-21 09:00:00,2026-08-24,Approved,Demo fuel requirement for MV Sea Star 21
+5022,8,1022,2014,270.99,1227.73,2026-08-22 09:00:00,2026-08-26,Approved,Demo fuel requirement for MV Sea Horizon 22
+5023,13,1023,2017,600.25,1214.44,2026-08-23 09:00:00,2026-08-29,Approved,Demo fuel requirement for MV Sea Voyager 23
+5024,18,1024,2020,281.51,767.91,2026-08-24 09:00:00,2026-08-31,Approved,Demo fuel requirement for MV Sea Trader 24
+5025,23,1025,2023,492.39,524.6,2026-08-25 09:00:00,2026-08-26,Approved,Demo fuel requirement for MV Sea Wave 25
+5026,28,1026,2026,500.72,684.09,2026-08-26 09:00:00,2026-08-31,Approved,Demo fuel requirement for MV Sea Star 26
+5027,33,1027,2029,279.63,1172.7,2026-08-27 09:00:00,2026-09-02,Approved,Demo fuel requirement for MV Sea Horizon 27
+5028,38,1028,2032,162.15,656.29,2026-08-28 09:00:00,2026-08-30,Approved,Demo fuel requirement for MV Sea Voyager 28
+5029,43,1029,2035,258.68,667.11,2026-08-29 09:00:00,2026-08-30,Approved,Demo fuel requirement for MV Sea Trader 29
+5030,48,1030,2038,545.45,526.67,2026-08-30 09:00:00,2026-09-01,Approved,Demo fuel requirement for MV Sea Wave 30
+5031,3,1031,2041,263.41,1102.18,2026-08-31 09:00:00,2026-09-05,Approved,Demo fuel requirement for MV Global Star 31
+5032,8,1032,2044,226.38,853.94,2026-09-01 09:00:00,2026-09-04,Approved,Demo fuel requirement for MV Global Horizon 32
+5033,13,1033,2047,222.16,1016.38,2026-09-02 09:00:00,2026-09-08,Approved,Demo fuel requirement for MV Global Voyager 33
+5034,18,1034,2050,611.75,867.19,2026-09-03 09:00:00,2026-09-08,Approved,Demo fuel requirement for MV Global Trader 34
+5035,23,1035,2003,393.12,835.94,2026-09-04 09:00:00,2026-09-11,Approved,Demo fuel requirement for MV Global Wave 35
+5036,28,1036,2006,130.48,530.97,2026-09-05 09:00:00,2026-09-11,Approved,Demo fuel requirement for MV Global Star 36
+5037,33,1037,2009,354.15,1055.2,2026-09-06 09:00:00,2026-09-09,Approved,Demo fuel requirement for MV Global Horizon 37
+5038,38,1038,2012,126.45,963.13,2026-09-07 09:00:00,2026-09-10,Approved,Demo fuel requirement for MV Global Voyager 38
+5039,43,1039,2015,562.67,1004.92,2026-09-08 09:00:00,2026-09-14,Approved,Demo fuel requirement for MV Global Trader 39
+5040,48,1040,2018,687.88,870.91,2026-09-09 09:00:00,2026-09-11,Approved,Demo fuel requirement for MV Global Wave 40
+5041,3,1041,2021,544.74,941.19,2026-09-10 09:00:00,2026-09-15,Approved,Demo fuel requirement for MV Pacific Star 41
+5042,8,1042,2024,523.4,1043.57,2026-09-11 09:00:00,2026-09-16,Approved,Demo fuel requirement for MV Pacific Horizon 42
+5043,13,1043,2027,105.8,1195.26,2026-09-12 09:00:00,2026-09-13,Approved,Demo fuel requirement for MV Pacific Voyager 43
+5044,18,1044,2030,667.03,529.3,2026-09-13 09:00:00,2026-09-19,Approved,Demo fuel requirement for MV Pacific Trader 44
+5045,23,1045,2033,642.36,875.9,2026-09-14 09:00:00,2026-09-19,Approved,Demo fuel requirement for MV Pacific Wave 45
+5046,28,1046,2036,121.62,552.63,2026-09-15 09:00:00,2026-09-18,Approved,Demo fuel requirement for MV Pacific Star 46
+5047,33,1047,2039,449.51,627.52,2026-09-16 09:00:00,2026-09-18,Approved,Demo fuel requirement for MV Pacific Horizon 47
+5048,38,1048,2042,357.87,982.15,2026-09-17 09:00:00,2026-09-18,Approved,Demo fuel requirement for MV Pacific Voyager 48
+5049,43,1049,2045,284.96,606.77,2026-09-18 09:00:00,2026-09-25,Approved,Demo fuel requirement for MV Pacific Trader 49
+5050,48,1050,2048,683.32,599.19,2026-09-19 09:00:00,2026-09-20,Approved,Demo fuel requirement for MV Pacific Wave 50
+5051,3,1001,2001,639.35,765.04,2026-09-20 09:00:00,2026-09-22,Pending,Demo fuel requirement for MV Ocean Star 01
+5052,8,1002,2004,509.24,1007.15,2026-09-21 09:00:00,2026-09-27,Pending,Demo fuel requirement for MV Ocean Horizon 02
+5053,13,1003,2007,161.68,643.72,2026-09-22 09:00:00,2026-09-29,Pending,Demo fuel requirement for MV Ocean Voyager 03
+5054,18,1004,2010,435.93,758.74,2026-09-23 09:00:00,2026-09-30,Pending,Demo fuel requirement for MV Ocean Trader 04
+5055,23,1005,2013,343.83,776.27,2026-09-24 09:00:00,2026-09-29,Pending,Demo fuel requirement for MV Ocean Wave 05
+5056,28,1006,2016,549.69,565.9,2026-09-25 09:00:00,2026-09-27,Pending,Demo fuel requirement for MV Ocean Star 06
+5057,33,1007,2019,618.76,1128.09,2026-09-26 09:00:00,2026-10-03,Pending,Demo fuel requirement for MV Ocean Horizon 07
+5058,38,1008,2022,586.46,1156.62,2026-09-27 09:00:00,2026-10-01,Pending,Demo fuel requirement for MV Ocean Voyager 08
+5059,43,1009,2025,114.87,578.86,2026-09-28 09:00:00,2026-10-04,Pending,Demo fuel requirement for MV Ocean Trader 09
+5060,48,1010,2028,654.69,787.22,2026-09-29 09:00:00,2026-10-06,Pending,Demo fuel requirement for MV Ocean Wave 10
+5061,3,1011,2031,658.49,933.1,2026-09-30 09:00:00,2026-10-07,Pending,Demo fuel requirement for MV Blue Star 11
+5062,8,1012,2034,501.94,895.21,2026-10-01 09:00:00,2026-10-07,Pending,Demo fuel requirement for MV Blue Horizon 12
+5063,13,1013,2037,586.45,796.55,2026-10-02 09:00:00,2026-10-05,Pending,Demo fuel requirement for MV Blue Voyager 13
+5064,18,1014,2040,195.52,621.29,2026-10-03 09:00:00,2026-10-09,Pending,Demo fuel requirement for MV Blue Trader 14
+5065,23,1015,2043,164.86,1193.3,2026-10-04 09:00:00,2026-10-11,Pending,Demo fuel requirement for MV Blue Wave 15
+5066,28,1016,2046,123.23,1193.42,2026-10-05 09:00:00,2026-10-09,In Review,Demo fuel requirement for MV Blue Star 16
+5067,33,1017,2049,233.46,1055.94,2026-10-06 09:00:00,2026-10-13,In Review,Demo fuel requirement for MV Blue Horizon 17
+5068,38,1018,2002,651.07,949.03,2026-10-07 09:00:00,2026-10-10,In Review,Demo fuel requirement for MV Blue Voyager 18
+5069,43,1019,2005,283.11,1112.79,2026-10-08 09:00:00,2026-10-15,In Review,Demo fuel requirement for MV Blue Trader 19
+5070,48,1020,2008,622.79,683.96,2026-10-09 09:00:00,2026-10-11,In Review,Demo fuel requirement for MV Blue Wave 20
+5071,3,1021,2011,114.2,550.0,2026-10-10 09:00:00,2026-10-12,In Review,Demo fuel requirement for MV Sea Star 21
+5072,8,1022,2014,339.08,1227.73,2026-10-11 09:00:00,2026-10-14,In Review,Demo fuel requirement for MV Sea Horizon 22
+5073,13,1023,2017,618.61,1214.44,2026-10-12 09:00:00,2026-10-19,In Review,Demo fuel requirement for MV Sea Voyager 23
+5074,18,1024,2020,267.47,767.91,2026-10-13 09:00:00,2026-10-19,In Review,Demo fuel requirement for MV Sea Trader 24
+5075,23,1025,2023,405.64,524.6,2026-10-14 09:00:00,2026-10-20,In Review,Demo fuel requirement for MV Sea Wave 25
+5076,28,1026,2026,688.69,684.09,2026-10-15 09:00:00,2026-10-20,In Review,Demo fuel requirement for MV Sea Star 26
+5077,33,1027,2029,298.69,1172.7,2026-10-16 09:00:00,2026-10-17,In Review,Demo fuel requirement for MV Sea Horizon 27
+5078,38,1028,2032,169.21,656.29,2026-10-17 09:00:00,2026-10-20,In Review,Demo fuel requirement for MV Sea Voyager 28
+5079,43,1029,2035,207.14,667.11,2026-10-18 09:00:00,2026-10-21,In Review,Demo fuel requirement for MV Sea Trader 29
+5080,48,1030,2038,122.95,526.67,2026-10-19 09:00:00,2026-10-24,In Review,Demo fuel requirement for MV Sea Wave 30
+5081,3,1031,2041,360.74,1102.18,2026-10-20 09:00:00,2026-10-26,Vendor Confirmation,Demo fuel requirement for MV Global Star 31
+5082,8,1032,2044,571.86,853.94,2026-10-21 09:00:00,2026-10-25,Vendor Confirmation,Demo fuel requirement for MV Global Horizon 32
+5083,13,1033,2047,463.73,1016.38,2026-10-22 09:00:00,2026-10-27,Vendor Confirmation,Demo fuel requirement for MV Global Voyager 33
+5084,18,1034,2050,169.39,867.19,2026-10-23 09:00:00,2026-10-28,Vendor Confirmation,Demo fuel requirement for MV Global Trader 34
+5085,23,1035,2003,214.05,835.94,2026-10-24 09:00:00,2026-10-25,Vendor Confirmation,Demo fuel requirement for MV Global Wave 35
+5086,28,1036,2006,525.27,530.97,2026-10-25 09:00:00,2026-10-26,Vendor Confirmation,Demo fuel requirement for MV Global Star 36
+5087,33,1037,2009,411.95,1055.2,2026-10-26 09:00:00,2026-11-02,Vendor Confirmation,Demo fuel requirement for MV Global Horizon 37
+5088,38,1038,2012,423.07,963.13,2026-10-27 09:00:00,2026-11-02,Vendor Confirmation,Demo fuel requirement for MV Global Voyager 38
+5089,43,1039,2015,664.16,1004.92,2026-10-28 09:00:00,2026-11-03,Vendor Confirmation,Demo fuel requirement for MV Global Trader 39
+5090,48,1040,2018,502.38,870.91,2026-10-29 09:00:00,2026-11-01,Vendor Confirmation,Demo fuel requirement for MV Global Wave 40
+5091,3,1041,2021,358.78,941.19,2026-10-30 09:00:00,2026-11-05,Rejected,Demo fuel requirement for MV Pacific Star 41
+5092,8,1042,2024,652.46,1043.57,2026-10-31 09:00:00,2026-11-05,Rejected,Demo fuel requirement for MV Pacific Horizon 42
+5093,13,1043,2027,288.35,1195.26,2026-11-01 09:00:00,2026-11-08,Rejected,Demo fuel requirement for MV Pacific Voyager 43
+5094,18,1044,2030,174.78,529.3,2026-11-02 09:00:00,2026-11-05,Rejected,Demo fuel requirement for MV Pacific Trader 44
+5095,23,1045,2033,404.27,875.9,2026-11-03 09:00:00,2026-11-09,Rejected,Demo fuel requirement for MV Pacific Wave 45
+5096,28,1046,2036,345.04,552.63,2026-11-04 09:00:00,2026-11-08,Rejected,Demo fuel requirement for MV Pacific Star 46
+5097,33,1047,2039,518.33,627.52,2026-11-05 09:00:00,2026-11-10,Rejected,Demo fuel requirement for MV Pacific Horizon 47
+5098,38,1048,2042,176.37,982.15,2026-11-06 09:00:00,2026-11-10,Rejected,Demo fuel requirement for MV Pacific Voyager 48
+5099,43,1049,2045,498.96,606.77,2026-11-07 09:00:00,2026-11-11,Rejected,Demo fuel requirement for MV Pacific Trader 49
+5100,48,1050,2048,506.39,599.19,2026-11-08 09:00:00,2026-11-10,Rejected,Demo fuel requirement for MV Pacific Wave 50

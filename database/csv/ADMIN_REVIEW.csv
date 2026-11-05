@@ -1,0 +1,101 @@
+admin_review_id,request_id,admin_id,ship_total_capacity_mt,current_fuel_onboard_mt,feasibility_status,vendor_status,confirmed_quantity_mt,confirmed_price_per_mt,confirmed_delivery_time_hours,vendor_checked_at,remarks
+6001,5001,1,6336.56,1153.66,Feasible,Available,676.47,765.04,27.0,2026-08-01 12:00:00,Demo feasibility and vendor review
+6002,5002,6,2650.06,1121.91,Feasible,Available,610.81,1007.15,20.0,2026-08-02 12:00:00,Demo feasibility and vendor review
+6003,5003,11,4150.18,755.81,Feasible,Available,457.02,643.72,8.0,2026-08-03 12:00:00,Demo feasibility and vendor review
+6004,5004,16,3839.26,944.83,Feasible,Available,617.09,758.74,14.0,2026-08-04 12:00:00,Demo feasibility and vendor review
+6005,5005,21,6918.83,1209.99,Feasible,Available,171.93,776.27,26.0,2026-08-05 12:00:00,Demo feasibility and vendor review
+6006,5006,26,6560.2,997.48,Feasible,Available,247.73,565.9,18.0,2026-08-06 12:00:00,Demo feasibility and vendor review
+6007,5007,31,7853.08,1313.44,Feasible,Available,123.84,1128.09,22.0,2026-08-07 12:00:00,Demo feasibility and vendor review
+6008,5008,36,3021.63,1009.78,Feasible,Available,351.53,1156.62,24.0,2026-08-08 12:00:00,Demo feasibility and vendor review
+6009,5009,41,5031.53,1739.75,Feasible,Available,439.14,578.86,36.0,2026-08-09 12:00:00,Demo feasibility and vendor review
+6010,5010,46,2678.78,554.54,Feasible,Available,660.82,787.22,31.0,2026-08-10 12:00:00,Demo feasibility and vendor review
+6011,5011,1,3811.83,725.68,Feasible,Available,501.84,933.1,10.0,2026-08-11 12:00:00,Demo feasibility and vendor review
+6012,5012,6,5532.13,1249.41,Feasible,Available,243.21,895.21,29.0,2026-08-12 12:00:00,Demo feasibility and vendor review
+6013,5013,11,2659.22,440.08,Feasible,Available,178.53,796.55,18.0,2026-08-13 12:00:00,Demo feasibility and vendor review
+6014,5014,16,3693.03,652.3,Feasible,Available,280.0,621.29,32.0,2026-08-14 12:00:00,Demo feasibility and vendor review
+6015,5015,21,6399.31,636.96,Feasible,Available,657.41,1193.3,17.0,2026-08-15 12:00:00,Demo feasibility and vendor review
+6016,5016,26,5769.65,521.03,Feasible,Available,105.59,1193.42,14.0,2026-08-16 12:00:00,Demo feasibility and vendor review
+6017,5017,31,3822.64,667.26,Feasible,Available,699.07,1055.94,9.0,2026-08-17 12:00:00,Demo feasibility and vendor review
+6018,5018,36,6035.59,1216.91,Feasible,Available,143.96,949.03,23.0,2026-08-18 12:00:00,Demo feasibility and vendor review
+6019,5019,41,7356.58,409.24,Feasible,Available,403.53,1112.79,32.0,2026-08-19 12:00:00,Demo feasibility and vendor review
+6020,5020,46,2538.99,1629.21,Feasible,Available,659.96,683.96,21.0,2026-08-20 12:00:00,Demo feasibility and vendor review
+6021,5021,1,7334.92,591.65,Feasible,Available,627.56,550.0,26.0,2026-08-21 12:00:00,Demo feasibility and vendor review
+6022,5022,6,6688.84,875.97,Feasible,Available,270.99,1227.73,30.0,2026-08-22 12:00:00,Demo feasibility and vendor review
+6023,5023,11,4541.5,665.98,Feasible,Available,600.25,1214.44,20.0,2026-08-23 12:00:00,Demo feasibility and vendor review
+6024,5024,16,3432.88,1331.43,Feasible,Available,281.51,767.91,28.0,2026-08-24 12:00:00,Demo feasibility and vendor review
+6025,5025,21,8243.28,1426.45,Feasible,Available,492.39,524.6,36.0,2026-08-25 12:00:00,Demo feasibility and vendor review
+6026,5026,26,4519.57,1628.2,Feasible,Available,500.72,684.09,32.0,2026-08-26 12:00:00,Demo feasibility and vendor review
+6027,5027,31,3056.48,937.72,Feasible,Available,279.63,1172.7,32.0,2026-08-27 12:00:00,Demo feasibility and vendor review
+6028,5028,36,3080.3,1506.16,Feasible,Available,162.15,656.29,13.0,2026-08-28 12:00:00,Demo feasibility and vendor review
+6029,5029,41,7584.97,1076.94,Feasible,Available,258.68,667.11,30.0,2026-08-29 12:00:00,Demo feasibility and vendor review
+6030,5030,46,6122.36,1136.11,Feasible,Available,545.45,526.67,9.0,2026-08-30 12:00:00,Demo feasibility and vendor review
+6031,5031,1,7342.77,482.04,Feasible,Available,263.41,1102.18,35.0,2026-08-31 12:00:00,Demo feasibility and vendor review
+6032,5032,6,6878.39,1502.12,Feasible,Available,226.38,853.94,12.0,2026-09-01 12:00:00,Demo feasibility and vendor review
+6033,5033,11,5717.37,1096.7,Feasible,Available,222.16,1016.38,29.0,2026-09-02 12:00:00,Demo feasibility and vendor review
+6034,5034,16,8338.69,1193.18,Feasible,Available,611.75,867.19,25.0,2026-09-03 12:00:00,Demo feasibility and vendor review
+6035,5035,21,4771.21,1637.14,Feasible,Available,393.12,835.94,32.0,2026-09-04 12:00:00,Demo feasibility and vendor review
+6036,5036,26,5812.24,1522.51,Feasible,Available,130.48,530.97,27.0,2026-09-05 12:00:00,Demo feasibility and vendor review
+6037,5037,31,7476.43,1057.17,Feasible,Available,354.15,1055.2,36.0,2026-09-06 12:00:00,Demo feasibility and vendor review
+6038,5038,36,6211.12,1660.28,Feasible,Available,126.45,963.13,34.0,2026-09-07 12:00:00,Demo feasibility and vendor review
+6039,5039,41,7670.24,1645.81,Feasible,Available,562.67,1004.92,22.0,2026-09-08 12:00:00,Demo feasibility and vendor review
+6040,5040,46,5964.11,1592.24,Feasible,Available,687.88,870.91,31.0,2026-09-09 12:00:00,Demo feasibility and vendor review
+6041,5041,1,6727.43,688.79,Feasible,Available,544.74,941.19,22.0,2026-09-10 12:00:00,Demo feasibility and vendor review
+6042,5042,6,2774.95,1559.79,Feasible,Available,523.4,1043.57,15.0,2026-09-11 12:00:00,Demo feasibility and vendor review
+6043,5043,11,3867.39,1448.72,Feasible,Available,105.8,1195.26,16.0,2026-09-12 12:00:00,Demo feasibility and vendor review
+6044,5044,16,4236.33,1026.9,Feasible,Available,667.03,529.3,24.0,2026-09-13 12:00:00,Demo feasibility and vendor review
+6045,5045,21,2978.75,711.9,Feasible,Available,642.36,875.9,15.0,2026-09-14 12:00:00,Demo feasibility and vendor review
+6046,5046,26,3896.75,1370.32,Feasible,Available,121.62,552.63,10.0,2026-09-15 12:00:00,Demo feasibility and vendor review
+6047,5047,31,3106.01,707.57,Feasible,Available,449.51,627.52,15.0,2026-09-16 12:00:00,Demo feasibility and vendor review
+6048,5048,36,4167.84,1639.54,Feasible,Available,357.87,982.15,18.0,2026-09-17 12:00:00,Demo feasibility and vendor review
+6049,5049,41,6314.11,507.56,Feasible,Available,284.96,606.77,10.0,2026-09-18 12:00:00,Demo feasibility and vendor review
+6050,5050,46,4688.99,874.55,Feasible,Available,683.32,599.19,15.0,2026-09-19 12:00:00,Demo feasibility and vendor review
+6051,5051,1,6336.56,1359.63,Feasible,Available,575.4150000000001,765.04,12.0,2026-09-20 12:00:00,Demo feasibility and vendor review
+6052,5052,6,2650.06,922.3,Feasible,Available,458.31600000000003,1007.15,10.0,2026-09-21 12:00:00,Demo feasibility and vendor review
+6053,5053,11,4150.18,1113.92,Feasible,Available,145.512,643.72,18.0,2026-09-22 12:00:00,Demo feasibility and vendor review
+6054,5054,16,3839.26,393.4,Feasible,Available,392.337,758.74,21.0,2026-09-23 12:00:00,Demo feasibility and vendor review
+6055,5055,21,6918.83,930.22,Feasible,Available,309.447,776.27,34.0,2026-09-24 12:00:00,Demo feasibility and vendor review
+6056,5056,26,6560.2,1454.69,Feasible,Available,494.72100000000006,565.9,36.0,2026-09-25 12:00:00,Demo feasibility and vendor review
+6057,5057,31,7853.08,329.3,Feasible,Available,556.884,1128.09,30.0,2026-09-26 12:00:00,Demo feasibility and vendor review
+6058,5058,36,3021.63,1448.39,Feasible,Available,527.8140000000001,1156.62,36.0,2026-09-27 12:00:00,Demo feasibility and vendor review
+6059,5059,41,5031.53,1015.47,Feasible,Available,103.38300000000001,578.86,20.0,2026-09-28 12:00:00,Demo feasibility and vendor review
+6060,5060,46,2678.78,747.92,Feasible,Available,589.2210000000001,787.22,19.0,2026-09-29 12:00:00,Demo feasibility and vendor review
+6061,5061,1,3811.83,1580.17,Feasible,Available,592.6410000000001,933.1,20.0,2026-09-30 12:00:00,Demo feasibility and vendor review
+6062,5062,6,5532.13,928.53,Feasible,Available,451.746,895.21,34.0,2026-10-01 12:00:00,Demo feasibility and vendor review
+6063,5063,11,2659.22,1401.95,Feasible,Available,527.8050000000001,796.55,31.0,2026-10-02 12:00:00,Demo feasibility and vendor review
+6064,5064,16,3693.03,1204.88,Feasible,Available,175.96800000000002,621.29,33.0,2026-10-03 12:00:00,Demo feasibility and vendor review
+6065,5065,21,6399.31,1032.34,Feasible,Available,148.37400000000002,1193.3,15.0,2026-10-04 12:00:00,Demo feasibility and vendor review
+6066,5066,26,5769.65,953.75,Feasible,Available,110.90700000000001,1193.42,16.0,2026-10-05 12:00:00,Demo feasibility and vendor review
+6067,5067,31,3822.64,883.29,Feasible,Available,210.114,1055.94,8.0,2026-10-06 12:00:00,Demo feasibility and vendor review
+6068,5068,36,6035.59,1318.71,Feasible,Available,585.9630000000001,949.03,29.0,2026-10-07 12:00:00,Demo feasibility and vendor review
+6069,5069,41,7356.58,1386.27,Feasible,Available,254.799,1112.79,20.0,2026-10-08 12:00:00,Demo feasibility and vendor review
+6070,5070,46,2538.99,1001.09,Feasible,Available,560.511,683.96,34.0,2026-10-09 12:00:00,Demo feasibility and vendor review
+6071,5071,1,7334.92,1771.08,Feasible,Available,102.78,550.0,12.0,2026-10-10 12:00:00,Demo feasibility and vendor review
+6072,5072,6,6688.84,340.45,Feasible,Available,305.17199999999997,1227.73,25.0,2026-10-11 12:00:00,Demo feasibility and vendor review
+6073,5073,11,4541.5,1187.84,Feasible,Available,556.749,1214.44,20.0,2026-10-12 12:00:00,Demo feasibility and vendor review
+6074,5074,16,3432.88,340.65,Feasible,Available,240.72300000000004,767.91,29.0,2026-10-13 12:00:00,Demo feasibility and vendor review
+6075,5075,21,8243.28,942.92,Feasible,Available,365.076,524.6,28.0,2026-10-14 12:00:00,Demo feasibility and vendor review
+6076,5076,26,4519.57,992.55,Feasible,Available,619.821,684.09,35.0,2026-10-15 12:00:00,Demo feasibility and vendor review
+6077,5077,31,3056.48,690.23,Feasible,Available,268.821,1172.7,9.0,2026-10-16 12:00:00,Demo feasibility and vendor review
+6078,5078,36,3080.3,617.49,Feasible,Available,152.28900000000002,656.29,18.0,2026-10-17 12:00:00,Demo feasibility and vendor review
+6079,5079,41,7584.97,806.25,Feasible,Available,186.426,667.11,18.0,2026-10-18 12:00:00,Demo feasibility and vendor review
+6080,5080,46,6122.36,868.69,Feasible,Available,110.655,526.67,36.0,2026-10-19 12:00:00,Demo feasibility and vendor review
+6081,5081,1,7342.77,1428.01,Feasible,Pending,,,,2026-10-20 12:00:00,Demo feasibility and vendor review
+6082,5082,6,6878.39,1547.89,Feasible,Pending,,,,2026-10-21 12:00:00,Demo feasibility and vendor review
+6083,5083,11,5717.37,678.41,Feasible,Pending,,,,2026-10-22 12:00:00,Demo feasibility and vendor review
+6084,5084,16,8338.69,422.86,Feasible,Pending,,,,2026-10-23 12:00:00,Demo feasibility and vendor review
+6085,5085,21,4771.21,329.07,Feasible,Pending,,,,2026-10-24 12:00:00,Demo feasibility and vendor review
+6086,5086,26,5812.24,1109.13,Feasible,Pending,,,,2026-10-25 12:00:00,Demo feasibility and vendor review
+6087,5087,31,7476.43,1799.86,Feasible,Pending,,,,2026-10-26 12:00:00,Demo feasibility and vendor review
+6088,5088,36,6211.12,824.94,Feasible,Pending,,,,2026-10-27 12:00:00,Demo feasibility and vendor review
+6089,5089,41,7670.24,1275.22,Feasible,Pending,,,,2026-10-28 12:00:00,Demo feasibility and vendor review
+6090,5090,46,5964.11,1471.85,Feasible,Pending,,,,2026-10-29 12:00:00,Demo feasibility and vendor review
+6091,5091,1,6727.43,1277.63,Not Feasible,Pending,,,,2026-10-30 12:00:00,Demo feasibility and vendor review
+6092,5092,6,2774.95,1431.35,Not Feasible,Pending,,,,2026-10-31 12:00:00,Demo feasibility and vendor review
+6093,5093,11,3867.39,1724.42,Not Feasible,Pending,,,,2026-11-01 12:00:00,Demo feasibility and vendor review
+6094,5094,16,4236.33,599.04,Not Feasible,Pending,,,,2026-11-02 12:00:00,Demo feasibility and vendor review
+6095,5095,21,2978.75,330.57,Not Feasible,Pending,,,,2026-11-03 12:00:00,Demo feasibility and vendor review
+6096,5096,26,3896.75,528.57,Not Feasible,Pending,,,,2026-11-04 12:00:00,Demo feasibility and vendor review
+6097,5097,31,3106.01,489.33,Not Feasible,Pending,,,,2026-11-05 12:00:00,Demo feasibility and vendor review
+6098,5098,36,4167.84,1304.19,Not Feasible,Pending,,,,2026-11-06 12:00:00,Demo feasibility and vendor review
+6099,5099,41,6314.11,1145.95,Not Feasible,Pending,,,,2026-11-07 12:00:00,Demo feasibility and vendor review
+6100,5100,46,4688.99,626.95,Not Feasible,Pending,,,,2026-11-08 12:00:00,Demo feasibility and vendor review

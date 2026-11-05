@@ -1,0 +1,51 @@
+allocation_id,ship_id,fuel_type,quantity_mt,allocation_date,allocated_by,purchase_id,status,remarks
+4001,1001,IFO 380,194.49,2026-08-03 09:00:00,5,7001,Completed,Synthetic demo fuel allocation
+4002,1002,MGO,132.0,2026-08-04 09:00:00,10,7002,Completed,Synthetic demo fuel allocation
+4003,1003,MDO,180.96,2026-08-05 09:00:00,15,7003,Completed,Synthetic demo fuel allocation
+4004,1004,LNG,80.87,2026-08-06 09:00:00,20,7004,Completed,Synthetic demo fuel allocation
+4005,1005,IFO 380,143.9,2026-08-07 09:00:00,25,7005,Completed,Synthetic demo fuel allocation
+4006,1006,MGO,243.84,2026-08-08 09:00:00,30,7006,Completed,Synthetic demo fuel allocation
+4007,1007,MDO,117.71,2026-08-09 09:00:00,35,7007,Completed,Synthetic demo fuel allocation
+4008,1008,LNG,188.54,2026-08-10 09:00:00,40,7008,Completed,Synthetic demo fuel allocation
+4009,1009,IFO 380,179.97,2026-08-11 09:00:00,45,7009,Completed,Synthetic demo fuel allocation
+4010,1010,MGO,220.35,2026-08-12 09:00:00,50,7010,Completed,Synthetic demo fuel allocation
+4011,1011,MDO,220.47,2026-08-13 09:00:00,5,7011,Completed,Synthetic demo fuel allocation
+4012,1012,LNG,221.87,2026-08-14 09:00:00,10,7012,Completed,Synthetic demo fuel allocation
+4013,1013,IFO 380,126.0,2026-08-15 09:00:00,15,7013,Completed,Synthetic demo fuel allocation
+4014,1014,MGO,113.33,2026-08-16 09:00:00,20,7014,Completed,Synthetic demo fuel allocation
+4015,1015,MDO,193.74,2026-08-17 09:00:00,25,7015,Completed,Synthetic demo fuel allocation
+4016,1016,LNG,201.88,2026-08-18 09:00:00,30,7016,Completed,Synthetic demo fuel allocation
+4017,1017,IFO 380,224.48,2026-08-19 09:00:00,35,7017,Completed,Synthetic demo fuel allocation
+4018,1018,MGO,57.18,2026-08-20 09:00:00,40,7018,Completed,Synthetic demo fuel allocation
+4019,1019,MDO,63.68,2026-08-21 09:00:00,45,7019,Completed,Synthetic demo fuel allocation
+4020,1020,LNG,176.23,2026-08-22 09:00:00,50,7020,Completed,Synthetic demo fuel allocation
+4021,1021,IFO 380,234.19,2026-08-23 09:00:00,5,7021,Completed,Synthetic demo fuel allocation
+4022,1022,MGO,249.49,2026-08-24 09:00:00,10,7022,Completed,Synthetic demo fuel allocation
+4023,1023,MDO,199.35,2026-08-25 09:00:00,15,7023,Completed,Synthetic demo fuel allocation
+4024,1024,LNG,136.79,2026-08-26 09:00:00,20,7024,Completed,Synthetic demo fuel allocation
+4025,1025,IFO 380,69.69,2026-08-27 09:00:00,25,7025,Completed,Synthetic demo fuel allocation
+4026,1026,MGO,176.75,2026-08-28 09:00:00,30,7026,Completed,Synthetic demo fuel allocation
+4027,1027,MDO,224.52,2026-08-29 09:00:00,35,7027,Completed,Synthetic demo fuel allocation
+4028,1028,LNG,138.74,2026-08-30 09:00:00,40,7028,Completed,Synthetic demo fuel allocation
+4029,1029,IFO 380,188.8,2026-08-31 09:00:00,45,7029,Completed,Synthetic demo fuel allocation
+4030,1030,MGO,230.68,2026-09-01 09:00:00,50,7030,Completed,Synthetic demo fuel allocation
+4031,1031,MDO,59.2,2026-09-02 09:00:00,5,7031,Completed,Synthetic demo fuel allocation
+4032,1032,LNG,209.23,2026-09-03 09:00:00,10,7032,Completed,Synthetic demo fuel allocation
+4033,1033,IFO 380,108.67,2026-09-04 09:00:00,15,7033,Completed,Synthetic demo fuel allocation
+4034,1034,MGO,124.97,2026-09-05 09:00:00,20,7034,Completed,Synthetic demo fuel allocation
+4035,1035,MDO,79.11,2026-09-06 09:00:00,25,7035,Completed,Synthetic demo fuel allocation
+4036,1036,LNG,156.23,2026-09-07 09:00:00,30,7036,Scheduled,Synthetic demo fuel allocation
+4037,1037,IFO 380,163.19,2026-09-08 09:00:00,35,7037,Scheduled,Synthetic demo fuel allocation
+4038,1038,MGO,208.5,2026-09-09 09:00:00,40,7038,Scheduled,Synthetic demo fuel allocation
+4039,1039,MDO,84.0,2026-09-10 09:00:00,45,7039,Scheduled,Synthetic demo fuel allocation
+4040,1040,LNG,65.79,2026-09-11 09:00:00,50,7040,Scheduled,Synthetic demo fuel allocation
+4041,1041,IFO 380,224.17,2026-09-12 09:00:00,5,7041,Scheduled,Synthetic demo fuel allocation
+4042,1042,MGO,173.94,2026-09-13 09:00:00,10,7042,Scheduled,Synthetic demo fuel allocation
+4043,1043,MDO,98.17,2026-09-14 09:00:00,15,7043,Scheduled,Synthetic demo fuel allocation
+4044,1044,LNG,232.57,2026-09-15 09:00:00,20,7044,Scheduled,Synthetic demo fuel allocation
+4045,1045,IFO 380,78.62,2026-09-16 09:00:00,25,7045,Scheduled,Synthetic demo fuel allocation
+4046,1046,MGO,142.23,2026-09-17 09:00:00,30,7046,Pending,Synthetic demo fuel allocation
+4047,1047,MDO,100.8,2026-09-18 09:00:00,35,7047,Pending,Synthetic demo fuel allocation
+4048,1048,LNG,101.07,2026-09-19 09:00:00,40,7048,Pending,Synthetic demo fuel allocation
+4049,1049,IFO 380,51.88,2026-09-20 09:00:00,45,7049,Pending,Synthetic demo fuel allocation
+4050,1050,MGO,210.93,2026-09-21 09:00:00,50,7050,Pending,Synthetic demo fuel allocation
